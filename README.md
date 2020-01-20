@@ -1,6 +1,10 @@
 # Data
 Publically avialble data found in my courses and books
 
+## Sources
+Consummer Complaint Database; https://www.consumerfinance.gov/data-research/consumer-complaints/#download-the-data 
+City of Atlanta Crime Data; https://www.atlantapd.org/i-want-to/crime-data-downloads 
+
 ## chennai_crimes:
 Simulated crime data for Channaie, India, based on comparable USA sities, including Atlanta, Los Angeled, and Chicago.
 Best applications: geospatial analysis & clustering;
